@@ -1,4 +1,4 @@
-### Olá! Me chamo Rafael Alves 👋
+### Olá, Me chamo Rafael Alves seja bem vindo ao meu perfil 👋
 
 - 🔭 Faço faculdade de Administração 
 - 🌱 Faço Curso de Analista de dados 
