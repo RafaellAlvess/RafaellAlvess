@@ -1,6 +1,5 @@
 ### Olá, Me chamo Rafael Alves seja bem vindo ao meu perfil 👋
-
-- 🔭 Faço faculdade de Administração 
+ 
 - 🌱 Faço Curso de Analista de dados 
 - 🤔 Sonho em trabalhar como desenvolvedor Back end
 
