@@ -1,7 +1,7 @@
 ### Olá, Me chamo Rafael Alves seja bem vindo ao meu perfil 👋
  
-- 🌱 Faço Curso de Analista de dados 
-- 🤔 Sonho em trabalhar como Data Analist ou Engenheiro de dados!!!
+- 🌱 Data Analist 
+- 🤔 Data Analyst Training!!!
 
 
 <div align="center">
