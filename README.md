@@ -1,28 +1,35 @@
-### Olá, Me chamo Rafael Alves seja bem vindo ao meu perfil 👋
- 
-- 🌱 Data Analist 
-- 🤔 Data Analyst Training!!!
+## Rafael Alves 
 
+Olá! Seja bem-vindo ao meu portfólio de projetos na área de análise de dados. Aqui você encontrará uma coleção dos projetos que desenvolvi ao longo da minha jornada, enquanto estou em transição para uma carreira na área de análise de dados.
 
-<div align="center">
-  <a href="https://github.com/RafaellAlvess">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaellAlvess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaellAlvess&layout=compact&langs_count=7&theme=dracula"/>
+### Sobre Mim
+Estou sempre disposto a auxiliar todos. Enfrento os obstáculos sempre com alegria, busco evoluir um pouco mais que ontem, possuo dentro de mim uma sede de vencer maior que o medo do fracasso.
+Trabalho desde os 14 anos, nunca tive medo de aceitar novos desafios. Na minha carreira tive que me adaptar à novos setores, conhecer novas áreas de atuação. Meu inicio foi em supermercados mais minha primeira atuação na indústria foi como auxiliar de pintura, me destaquei e fui para montador de maquinas, assistente de expedição chegando assim a operador de maquinas. Com essa trajetória ganhei muita experiência, agreguei muito conhecimento, gana de crescimento profissional e pessoal. Posso garantir que estou disposto a ir cada vez mais além.
+
+- 👨‍🎓 Data Analyst Training!!!
+- 🏋️‍♂️ Tentando ser  **Fitness**
+- 🕵️ Pretendo ser um excelente analista e resolvedor de problemas
+- 📚 Atualmente estudando:
+<div display="inline">
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img width="65" height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" />
+<img width="50" height="50" src="https://api.iconify.design/grommet-icons:github.svg" />
+ <img width="65" height="40" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UCNySfODo7w84WRFrbVYO4Ag" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/rafaalvesofficial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaalvesgamer" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:rafaalvesadm1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/RafaellAlvess/RafaellAlvess/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+---
+
+### Objetivo
+
+O objetivo deste repositório é documentar e compartilhar minha jornada na área de análise de dados, enquanto estou em transição para essa carreira. Este portfólio serve como uma vitrine dos projetos que desenvolvi, demonstrando minhas habilidades analíticas e conhecimentos técnicos.
+
+Além disso, busco conectar-me com profissionais e recrutadores da área, mostrando meu interesse e comprometimento com a análise de dados. Estou aberto a oportunidades desafiadoras, onde posso aplicar, explorar e extrair insights valiosos dos dados.
+
+---
+
+### Você também pode me encontrar aqui:
+
+<a href="https://www.linkedin.com/in/rafael-alvess-/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+
